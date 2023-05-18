@@ -1,5 +1,0 @@
-repositorio original
-https://github.com/FaztWeb/react-router-tutorial
-
-tutorial
-https://youtu.be/7xRVnmWcTE8
