@@ -1,0 +1,7 @@
+/* https://stackoverflow.com/questions/64656055/react-refers-to-a-umd-global-but-the-current-file-is-a-module */
+
+{
+  "compilerOptions": {
+    "jsx": "react-jsx"
+  }
+}

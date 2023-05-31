@@ -1,0 +1,13 @@
+.clase_css {
+  padding: 1rem;
+  font-weight: 900;
+  background-color: steelblue;
+}
+
+.clase_rojo {
+  background-color: red;
+}
+
+.clase_verde {
+  background-color: green;
+}
