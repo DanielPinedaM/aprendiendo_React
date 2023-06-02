@@ -1,0 +1,2 @@
+## Curso de Fernando Herrera de Redux Toolkit de 0 a Experto
+## [https://www.youtube.com/playlist?list=PLCKuOXG0bPi3AWYFJewb-UhN7Y2VjooJL](https://www.youtube.com/playlist?list=PLCKuOXG0bPi3AWYFJewb-UhN7Y2VjooJL)
