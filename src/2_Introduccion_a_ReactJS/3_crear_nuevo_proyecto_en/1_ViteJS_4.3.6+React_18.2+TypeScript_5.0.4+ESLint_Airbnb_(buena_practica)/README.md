@@ -1,3 +1,7 @@
+## Tutorial - Midudev
+[https://www.youtube.com/watch?v=4lAYfsq-2TE&t=103s](https://www.youtube.com/watch?v=4lAYfsq-2TE&t=103s)
+[https://www.youtube.com/watch?v=4lAYfsq-2TE&t=145s](https://www.youtube.com/watch?v=4lAYfsq-2TE&t=145s)
+
 ## **Pasos para crear nuevo proyecto en:**
 
 * [vite](https://vitejs.dev/guide/)
