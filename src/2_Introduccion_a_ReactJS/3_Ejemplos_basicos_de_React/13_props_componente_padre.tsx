@@ -1,0 +1,1 @@
+/* https://component-party.dev/#emit-to-parent */
