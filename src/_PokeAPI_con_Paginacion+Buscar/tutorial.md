@@ -1,0 +1,1 @@
+[Fernando Herrera - Consumir la Poke API agregando input de busqueda y paginacion](https://youtu.be/Q9jT1fZTV38?si=0ayJXrr_TzXQptWF)
