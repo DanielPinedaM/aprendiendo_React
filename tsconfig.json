@@ -5,7 +5,7 @@
     "target": "es6",
     "jsx": "react"
   },
-  "include": ["src/**/*", "src/*.tsx", "src/**/*.tsx", "src/*.jsx", "src/**/*.jsx"],
+  "include": ["src/**/*", "src/*.tsx", "src/**/*.tsx", "src/*.jsx", "src/**/*.jsx", "src/*.ts", "src/**/*.ts"],
   "exclude": [
     "node_modules",
     "**/node_modules/*",
