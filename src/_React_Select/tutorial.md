@@ -1,0 +1,1 @@
+## [Fazt - React Select Tutorial - Multi Select, Creatable, Animated Selects](https://youtu.be/w3voD2SK5BY?si=Rn-nWoMkOZcpiqWZ )
