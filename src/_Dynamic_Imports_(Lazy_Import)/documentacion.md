@@ -1,0 +1,1 @@
+## [react dynamic imports - react lazy import](https://react.dev/reference/react/lazy#suspense-for-code-splitting)
