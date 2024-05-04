@@ -1,6 +1,8 @@
 /*
 usando use state:
-1) un use state 1 y un boton con contador
+1) crear 2 btn para aumentar y disminuit contador
 
-2) 3 botones (o mas, los q sean)  con contadores diferentes cada uno con un solo use state 2
+2) en un solo use state guardar N cotadores, 
+crear 3 botones (o mas, los q sean)  con contadores diferentes, 
+cada contador de cada boton es independiente
 */
